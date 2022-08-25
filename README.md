@@ -90,4 +90,14 @@ Lembre-se que os pinos virtuais não possuem propriedades físicas.
  int pinValue = param.asInt(); //PINO VIRTUAL BLYNK
 ```
 
+# Contribua 
 
+1 - Fork it
+
+2 - Cria sua feature branch (git checkout -b my-new-feature)
+
+3 - Commit suas mudanças (git commit -am "Added some feature")
+
+4 - Push na sua branch (git push origin my-new-feature)
+
+5 - Crie novo Pull Request
