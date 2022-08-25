@@ -1,36 +1,37 @@
-![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
-# MVP - Portão Eletrônico
+
+<h1 align="center"> MVP Portão Eletrônico IoT</h1>
 
 
-#### Aqui é um exemplo de MVP da disciplina de Projetos de IoT
+<p align="center">
+<img src="imagens/MVP.gif">
+</p>
 
+<h1 align="center"> :electric_plug: Estrutura do Projeto :electric_plug: </h1>
 
-
-
-![](imagens/MVP.gif)
-
-
-#### A estrutura do projeto abrange:
-
+<p align="center">
 <img src="imagens/8.png" width="900" height="490">
+</p>
 
 
+> - Foi adaptado um controle de portão 433 MHz; 
+> - Para fazer as adaptações é necessário que o circuito não seja SMD;
+> - Por isso foi utilizado um controle com circuito PTH;
+> - Foi soldado dois fios entre os pushbuttons;
+> - Utilização de relé de 3V com optoacoplador.
 
-####  - Foi adaptado um controle de portão 433 MHz; 
-####  - Para fazer as adaptações é necessário que o circuito não seja SMD;
-####  - Por isso foi utilizado um controle com circuito PTH;
-####  - Foi soldado dois fios entre os pushbuttons;
-####  - Utilização de relé de 3V com optoacoplador.
+<p align="center">
+<img src="imagens/C.png">
+</p>
 
+<p align="center">
+<img src="https://i.makeagif.com/media/11-23-2015/i6yC2P.gif">
+</p>
 
-![](imagens/C.png)
+<h1 align="center"> :computer: Programação :computer: </h1>
 
-
-#### Para programação do NodeMCU8266 
-
-
+<p align="center">
 <img src="imagens/7.png" width="500" height="150">
-
+</p>
 
 > Tome cuidado ao fazer o `git clone`, pois a path não está configurada para seu computador, é melhor criar um novo projeto em platformIO, e copiar e colocar o código em `main.cpp`.
 
