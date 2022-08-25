@@ -17,7 +17,7 @@
 > - Para fazer as adaptações é necessário que o circuito não seja SMD;
 > - Por isso foi utilizado um controle com circuito PTH;
 > - Foi soldado dois fios entre os pushbuttons;
-> - Utilização de relé de 3V com optoacoplador.
+> - Utilize um relé de 3V com optoacoplador.
 
 <p align="center">
 <img src="imagens/C.png">
@@ -33,7 +33,7 @@
 <img src="imagens/7.png" width="500" height="150">
 </p>
 
-> Tome cuidado ao fazer o `git clone`, pois a path não está configurada para seu computador, é melhor criar um novo projeto em platformIO, e copiar e colocar o código em `main.cpp`.
+> Tome cuidado ao fazer o `git clone`, pois a path (.vscode) não está configurada para seu computador, por essa razão é melhor criar um novo projeto na  platformIO e depois copiar e colocar o código no arquivo `main.cpp`, que se encontra no diretório `src`.
 
 
 <img src="https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-21-512.png" width="20" height="20"> [Blynk](https://blynk.io/), acesse e crie sua conta, pegue as credências e defina as seguintes variáveis.
