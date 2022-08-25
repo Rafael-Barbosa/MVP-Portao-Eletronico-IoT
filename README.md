@@ -3,8 +3,15 @@
 
 Aqui é um exemplo de MVP da disciplina de Projetos de IoT
 
-GIF
 
 
+
+![](imagens/MVP.gif)
+
+
+A estrutura do projeto ambrange:
+
+
+![](imagens/8.png)
 
 
