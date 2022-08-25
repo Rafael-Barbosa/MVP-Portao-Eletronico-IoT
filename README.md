@@ -11,8 +11,8 @@
 
 #### A estrutura do projeto abrange:
 
+<img src="imagens/8.png" width="900" height="490">
 
-![](imagens/8.png)
 
 
 ####  - Foi adaptado um controle de portão 433 MHz; 
@@ -22,7 +22,10 @@
 ####  - Utilização de relé de 3V com optoacoplador.
 
 
+![](imagens/C.png)
 
 
+#### Para programação do NodeMCU8266 
 
 
+<img src="imagens/7.png" width="500" height="200">
