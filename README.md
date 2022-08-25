@@ -76,5 +76,18 @@ Para configurar isso na plataforma Blynk.
 
 <img src="imagens/4.png" width="450" height="250">
 
-<img src="imagens/5.png" width="450" height="250">
+
+<img src="https://cdn1.iconfinder.com/data/icons/mix-color-4/502/Untitled-21-512.png" width="20" height="20">  Baixe o APP do Blynk, em seu celular.
+
+![](imagens/app.png)
+
+`Virtual Pin` é um conceito inventado pela Blynk, para fornecer quaisquer dados entre o hardware e o aplicativo móvel. 
+Os pinos virtuais permitem a interface com qualquer atuador ou sensor.
+
+Lembre-se que os pinos virtuais não possuem propriedades físicas.
+
+```js
+ int pinValue = param.asInt(); //PINO VIRTUAL BLYNK
+```
+
 
